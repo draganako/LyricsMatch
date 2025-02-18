@@ -1,0 +1,87 @@
+C:\Users\Dragana Korunovic\source\repos\LyricsMatch\bin\Debug\LyricsMatch.exe.config
+C:\Users\Dragana Korunovic\source\repos\LyricsMatch\bin\Debug\LyricsMatch.exe
+C:\Users\Dragana Korunovic\source\repos\LyricsMatch\bin\Debug\LyricsMatch.pdb
+C:\Users\Dragana Korunovic\source\repos\LyricsMatch\bin\Debug\Elasticsearch.Net.dll
+C:\Users\Dragana Korunovic\source\repos\LyricsMatch\bin\Debug\MySql.Data.dll
+C:\Users\Dragana Korunovic\source\repos\LyricsMatch\bin\Debug\Nest.dll
+C:\Users\Dragana Korunovic\source\repos\LyricsMatch\bin\Debug\Properties.Resources.Designer.cs.dll
+C:\Users\Dragana Korunovic\source\repos\LyricsMatch\bin\Debug\System.Buffers.dll
+C:\Users\Dragana Korunovic\source\repos\LyricsMatch\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Dragana Korunovic\source\repos\LyricsMatch\bin\Debug\Google.Protobuf.dll
+C:\Users\Dragana Korunovic\source\repos\LyricsMatch\bin\Debug\Zstandard.Net.dll
+C:\Users\Dragana Korunovic\source\repos\LyricsMatch\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Dragana Korunovic\source\repos\LyricsMatch\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Dragana Korunovic\source\repos\LyricsMatch\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Dragana Korunovic\source\repos\LyricsMatch\bin\Debug\Renci.SshNet.dll
+C:\Users\Dragana Korunovic\source\repos\LyricsMatch\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Dragana Korunovic\source\repos\LyricsMatch\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Dragana Korunovic\source\repos\LyricsMatch\bin\Debug\System.Memory.dll
+C:\Users\Dragana Korunovic\source\repos\LyricsMatch\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Dragana Korunovic\source\repos\LyricsMatch\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Dragana Korunovic\source\repos\LyricsMatch\bin\Debug\Elasticsearch.Net.pdb
+C:\Users\Dragana Korunovic\source\repos\LyricsMatch\bin\Debug\Elasticsearch.Net.xml
+C:\Users\Dragana Korunovic\source\repos\LyricsMatch\bin\Debug\MySql.Data.xml
+C:\Users\Dragana Korunovic\source\repos\LyricsMatch\bin\Debug\Nest.pdb
+C:\Users\Dragana Korunovic\source\repos\LyricsMatch\bin\Debug\Nest.xml
+C:\Users\Dragana Korunovic\source\repos\LyricsMatch\bin\Debug\System.Buffers.xml
+C:\Users\Dragana Korunovic\source\repos\LyricsMatch\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Dragana Korunovic\source\repos\LyricsMatch\obj\Debug\LyricsMatch.csprojAssemblyReference.cache
+C:\Users\Dragana Korunovic\source\repos\LyricsMatch\obj\Debug\LyricsMatch.exe.config
+C:\Users\Dragana Korunovic\source\repos\LyricsMatch\obj\Debug\LyricsMatch.CommentPage.resources
+C:\Users\Dragana Korunovic\source\repos\LyricsMatch\obj\Debug\LyricsMatch.EditProfilePage.resources
+C:\Users\Dragana Korunovic\source\repos\LyricsMatch\obj\Debug\LyricsMatch.LogInPage.resources
+C:\Users\Dragana Korunovic\source\repos\LyricsMatch\obj\Debug\LyricsMatch.LyricsPage.resources
+C:\Users\Dragana Korunovic\source\repos\LyricsMatch\obj\Debug\LyricsMatch.MainPage.resources
+C:\Users\Dragana Korunovic\source\repos\LyricsMatch\obj\Debug\LyricsMatch.ProfilePage.resources
+C:\Users\Dragana Korunovic\source\repos\LyricsMatch\obj\Debug\LyricsMatch.Properties.Resources.resources
+C:\Users\Dragana Korunovic\source\repos\LyricsMatch\obj\Debug\LyricsMatch.RecommendedPage.resources
+C:\Users\Dragana Korunovic\source\repos\LyricsMatch\obj\Debug\LyricsMatch.SignUpPage.resources
+C:\Users\Dragana Korunovic\source\repos\LyricsMatch\obj\Debug\LyricsMatch.StatisticsPage.resources
+C:\Users\Dragana Korunovic\source\repos\LyricsMatch\obj\Debug\LyricsMatch.csproj.GenerateResource.cache
+C:\Users\Dragana Korunovic\source\repos\LyricsMatch\obj\Debug\LyricsMatch.csproj.CoreCompileInputs.cache
+C:\Users\Dragana Korunovic\source\repos\LyricsMatch\obj\Debug\LyricsMatch.csproj.CopyComplete
+C:\Users\Dragana Korunovic\source\repos\LyricsMatch\obj\Debug\LyricsMatch.exe
+C:\Users\Dragana Korunovic\source\repos\LyricsMatch\obj\Debug\LyricsMatch.pdb
+D:\Fakultet\VIII semestar\Diplomski rad\Git\LyricsMatch\bin\Debug\LyricsMatch.exe.config
+D:\Fakultet\VIII semestar\Diplomski rad\Git\LyricsMatch\bin\Debug\LyricsMatch.exe
+D:\Fakultet\VIII semestar\Diplomski rad\Git\LyricsMatch\bin\Debug\LyricsMatch.pdb
+D:\Fakultet\VIII semestar\Diplomski rad\Git\LyricsMatch\bin\Debug\Elasticsearch.Net.dll
+D:\Fakultet\VIII semestar\Diplomski rad\Git\LyricsMatch\bin\Debug\MySql.Data.dll
+D:\Fakultet\VIII semestar\Diplomski rad\Git\LyricsMatch\bin\Debug\Nest.dll
+D:\Fakultet\VIII semestar\Diplomski rad\Git\LyricsMatch\bin\Debug\Properties.Resources.Designer.cs.dll
+D:\Fakultet\VIII semestar\Diplomski rad\Git\LyricsMatch\bin\Debug\System.Buffers.dll
+D:\Fakultet\VIII semestar\Diplomski rad\Git\LyricsMatch\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Fakultet\VIII semestar\Diplomski rad\Git\LyricsMatch\bin\Debug\Google.Protobuf.dll
+D:\Fakultet\VIII semestar\Diplomski rad\Git\LyricsMatch\bin\Debug\Zstandard.Net.dll
+D:\Fakultet\VIII semestar\Diplomski rad\Git\LyricsMatch\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Fakultet\VIII semestar\Diplomski rad\Git\LyricsMatch\bin\Debug\BouncyCastle.Crypto.dll
+D:\Fakultet\VIII semestar\Diplomski rad\Git\LyricsMatch\bin\Debug\Ubiety.Dns.Core.dll
+D:\Fakultet\VIII semestar\Diplomski rad\Git\LyricsMatch\bin\Debug\Renci.SshNet.dll
+D:\Fakultet\VIII semestar\Diplomski rad\Git\LyricsMatch\bin\Debug\K4os.Compression.LZ4.dll
+D:\Fakultet\VIII semestar\Diplomski rad\Git\LyricsMatch\bin\Debug\K4os.Hash.xxHash.dll
+D:\Fakultet\VIII semestar\Diplomski rad\Git\LyricsMatch\bin\Debug\System.Memory.dll
+D:\Fakultet\VIII semestar\Diplomski rad\Git\LyricsMatch\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Fakultet\VIII semestar\Diplomski rad\Git\LyricsMatch\bin\Debug\System.Numerics.Vectors.dll
+D:\Fakultet\VIII semestar\Diplomski rad\Git\LyricsMatch\bin\Debug\Elasticsearch.Net.pdb
+D:\Fakultet\VIII semestar\Diplomski rad\Git\LyricsMatch\bin\Debug\Elasticsearch.Net.xml
+D:\Fakultet\VIII semestar\Diplomski rad\Git\LyricsMatch\bin\Debug\MySql.Data.xml
+D:\Fakultet\VIII semestar\Diplomski rad\Git\LyricsMatch\bin\Debug\Nest.pdb
+D:\Fakultet\VIII semestar\Diplomski rad\Git\LyricsMatch\bin\Debug\Nest.xml
+D:\Fakultet\VIII semestar\Diplomski rad\Git\LyricsMatch\bin\Debug\System.Buffers.xml
+D:\Fakultet\VIII semestar\Diplomski rad\Git\LyricsMatch\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Fakultet\VIII semestar\Diplomski rad\Git\LyricsMatch\obj\Debug\LyricsMatch.csprojAssemblyReference.cache
+D:\Fakultet\VIII semestar\Diplomski rad\Git\LyricsMatch\obj\Debug\LyricsMatch.CommentPage.resources
+D:\Fakultet\VIII semestar\Diplomski rad\Git\LyricsMatch\obj\Debug\LyricsMatch.EditProfilePage.resources
+D:\Fakultet\VIII semestar\Diplomski rad\Git\LyricsMatch\obj\Debug\LyricsMatch.LogInPage.resources
+D:\Fakultet\VIII semestar\Diplomski rad\Git\LyricsMatch\obj\Debug\LyricsMatch.LyricsPage.resources
+D:\Fakultet\VIII semestar\Diplomski rad\Git\LyricsMatch\obj\Debug\LyricsMatch.MainPage.resources
+D:\Fakultet\VIII semestar\Diplomski rad\Git\LyricsMatch\obj\Debug\LyricsMatch.ProfilePage.resources
+D:\Fakultet\VIII semestar\Diplomski rad\Git\LyricsMatch\obj\Debug\LyricsMatch.Properties.Resources.resources
+D:\Fakultet\VIII semestar\Diplomski rad\Git\LyricsMatch\obj\Debug\LyricsMatch.RecommendedPage.resources
+D:\Fakultet\VIII semestar\Diplomski rad\Git\LyricsMatch\obj\Debug\LyricsMatch.SignUpPage.resources
+D:\Fakultet\VIII semestar\Diplomski rad\Git\LyricsMatch\obj\Debug\LyricsMatch.StatisticsPage.resources
+D:\Fakultet\VIII semestar\Diplomski rad\Git\LyricsMatch\obj\Debug\LyricsMatch.csproj.GenerateResource.cache
+D:\Fakultet\VIII semestar\Diplomski rad\Git\LyricsMatch\obj\Debug\LyricsMatch.csproj.CoreCompileInputs.cache
+D:\Fakultet\VIII semestar\Diplomski rad\Git\LyricsMatch\obj\Debug\LyricsMatch.csproj.CopyComplete
+D:\Fakultet\VIII semestar\Diplomski rad\Git\LyricsMatch\obj\Debug\LyricsMatch.exe
+D:\Fakultet\VIII semestar\Diplomski rad\Git\LyricsMatch\obj\Debug\LyricsMatch.pdb

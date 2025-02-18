@@ -1,0 +1,87 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <OutputType>WinExe</OutputType>
+    <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+    <UseWindowsForms>true</UseWindowsForms>
+    <UseWPF>true</UseWPF>
+    <ImportWindowsDesktopTargets>true</ImportWindowsDesktopTargets>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MySql.Data, Version=8.0.21.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+  </ItemGroup>
+  <ItemGroup>
+	<PackageReference Include="Elastic.Apm" Version="1.16.1" />
+	<PackageReference Include="GeoAPI.Core" Version="1.7.5" />
+	<PackageReference Include="log4net" Version="2.0.15" />
+	<PackageReference Include="NetTopologySuite" Version="2.5.0" />
+	<PackageReference Include="System.Configuration.ConfigurationManager" Version="6.0.0" />
+    <PackageReference Include="Microsoft.CSharp" Version="4.7.0" />
+    <PackageReference Include="Microsoft.Diagnostics.Tracing.TraceEvent" Version="3.0.2" />
+    <PackageReference Include="NEST" Version="7.17.4" />
+    <PackageReference Include="System.Collections.Immutable" Version="6.0.0" />
+    <PackageReference Include="System.Data.Common" Version="4.3.0" />
+    <PackageReference Include="System.Data.DataSetExtensions" Version="4.5.0" />
+    <PackageReference Include="System.Diagnostics.DiagnosticSource" Version="6.0.0" />
+    <PackageReference Include="System.Memory" Version="4.5.5" />
+    <PackageReference Include="System.Numerics.Vectors" Version="4.5.0" />
+    <PackageReference Include="System.Reflection.Metadata" Version="6.0.1" />
+    <PackageReference Include="System.Runtime.CompilerServices.Unsafe" Version="6.0.0" />
+    <PackageReference Include="System.Threading.Tasks.Dataflow" Version="6.0.0" />
+    <PackageReference Include="System.Threading.Tasks.Extensions" Version="4.5.4" />
+    <PackageReference Include="Microsoft.DotNet.UpgradeAssistant.Extensions.Default.Analyzers" Version="0.4.336902">
+      <PrivateAssets>all</PrivateAssets>
+    </PackageReference>
+    <PackageReference Include="System.Windows.Forms.DataVisualization" Version="1.0.0-prerelease.20110.1" />
+    <PackageReference Include="Microsoft.Windows.Compatibility" Version="6.0.0" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Remove="LyricsMatch\CommentPage.cs" />
+    <Compile Remove="LyricsMatch\CommentPage.Designer.cs" />
+    <Compile Remove="LyricsMatch\DataProviders\DataProvider.cs" />
+    <Compile Remove="LyricsMatch\DataProviders\ElasticDataProvider.cs" />
+    <Compile Remove="LyricsMatch\EditProfilePage.cs" />
+    <Compile Remove="LyricsMatch\EditProfilePage.Designer.cs" />
+    <Compile Remove="LyricsMatch\LogInPage.cs" />
+    <Compile Remove="LyricsMatch\LogInPage.Designer.cs" />
+    <Compile Remove="LyricsMatch\LyricsPage.cs" />
+    <Compile Remove="LyricsMatch\LyricsPage.Designer.cs" />
+    <Compile Remove="LyricsMatch\MainPage.cs" />
+    <Compile Remove="LyricsMatch\MainPage.Designer.cs" />
+    <Compile Remove="LyricsMatch\Models\Comment.cs" />
+    <Compile Remove="LyricsMatch\Models\Song.cs" />
+    <Compile Remove="LyricsMatch\Models\User.cs" />
+    <Compile Remove="LyricsMatch\obj\Debug\.NETFramework,Version=v4.7.2.AssemblyAttributes.cs" />
+    <Compile Remove="LyricsMatch\obj\Debug\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" />
+    <Compile Remove="LyricsMatch\obj\Debug\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" />
+    <Compile Remove="LyricsMatch\obj\Debug\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" />
+    <Compile Remove="LyricsMatch\obj\Release\.NETFramework,Version=v4.7.2.AssemblyAttributes.cs" />
+    <Compile Remove="LyricsMatch\ProfilePage.cs" />
+    <Compile Remove="LyricsMatch\ProfilePage.Designer.cs" />
+    <Compile Remove="LyricsMatch\Program.cs" />
+    <Compile Remove="LyricsMatch\Properties\AssemblyInfo.cs" />
+    <Compile Remove="LyricsMatch\Properties\Resources.Designer.cs" />
+    <Compile Remove="LyricsMatch\Properties\Settings.Designer.cs" />
+    <Compile Remove="LyricsMatch\RecommendedPage.cs" />
+    <Compile Remove="LyricsMatch\RecommendedPage.Designer.cs" />
+    <Compile Remove="LyricsMatch\SignUpPage.cs" />
+    <Compile Remove="LyricsMatch\SignUpPage.Designer.cs" />
+    <Compile Remove="LyricsMatch\StatisticsPage.cs" />
+    <Compile Remove="LyricsMatch\StatisticsPage.Designer.cs" />
+    <EmbeddedResource Remove="LyricsMatch\CommentPage.resx" />
+    <EmbeddedResource Remove="LyricsMatch\EditProfilePage.resx" />
+    <EmbeddedResource Remove="LyricsMatch\LogInPage.resx" />
+    <EmbeddedResource Remove="LyricsMatch\LyricsPage.resx" />
+    <EmbeddedResource Remove="LyricsMatch\MainPage.resx" />
+    <EmbeddedResource Remove="LyricsMatch\NewCommentPage.resx" />
+    <EmbeddedResource Remove="LyricsMatch\NewProfile.resx" />
+    <EmbeddedResource Remove="LyricsMatch\ProfilePage.resx" />
+    <EmbeddedResource Remove="LyricsMatch\Properties\Resources.resx" />
+    <EmbeddedResource Remove="LyricsMatch\RecommendedPage.resx" />
+    <EmbeddedResource Remove="LyricsMatch\SignUpPage.resx" />
+    <EmbeddedResource Remove="LyricsMatch\StatisticsPage.resx" />
+    <EmbeddedResource Remove="NewCommentPage.resx" />
+    <EmbeddedResource Remove="NewProfile.resx" />
+  </ItemGroup>
+</Project>
