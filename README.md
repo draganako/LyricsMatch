@@ -7,13 +7,13 @@ This system was developed in three different versions to compare the performance
 The LyricsMatch system, which this application is a part of, consists of the following components:
 
 • Data source – document lyrics-data.csv downloaded from the Kaggle website which includes 17063 song lyrics, in English, Spanish, Basque language and instrumentals, 
-processed to include the year of publication and the coordinates of the top left, bottom right and center point of the place from which the song originated;
-• Logstash – a pipeline that downloads data from lyrics-data.csv and loads them with the desired transformations into the lyrics_data index;
-• Text database – Elasticsearch index, created via the Logstash pipeline;
-• Database – MySQL database that has the role of storing data about users, song lyrics, comments, search history and their mutual connections;
-• Lyricsmatch client application – .NET application using MySQL database and Elasticsearch index;
-• Kibana – software that is part of the Elastic Stack and is an interface for visualization and analysis of the Elasticsearch cluster;
-• Metricbeat – software for downloading system and cluster metrics and displaying them in Kibana.
+processed to include the year of publication and the coordinates of the top left, bottom right and center point of the place from which the song originated;<br>
+• Logstash – a pipeline that downloads data from lyrics-data.csv and loads them with the desired transformations into the lyrics_data index;<br>
+• Text database – Elasticsearch index, created via the Logstash pipeline;<br>
+• Database – MySQL database that has the role of storing data about users, song lyrics, comments, search history and their mutual connections;<br>
+• Lyricsmatch client application – .NET application using MySQL database and Elasticsearch index;<br>
+• Kibana – software that is part of the Elastic Stack and is an interface for visualization and analysis of the Elasticsearch cluster;<br>
+• Metricbeat – software for downloading system and cluster metrics and displaying them in Kibana.<br>
 
 ![image](https://github.com/user-attachments/assets/c1b81c6a-c397-4fd2-8ce3-e1c1f3362d6b)
 
